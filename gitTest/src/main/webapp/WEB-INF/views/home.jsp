@@ -10,6 +10,6 @@
 </h1>
 브랜치 생성 후
 <P>  The time on the server is ${serverTime}. </P>
-other branc
+other branch
 </body>
 </html>
