@@ -12,5 +12,7 @@
 <P>  The time on the server is ${serverTime}. </P>
 master
 remote tracking 설정
+
+merge
 </body>
 </html>
