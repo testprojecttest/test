@@ -11,5 +11,6 @@
 브랜치 생성 후
 <P>  The time on the server is ${serverTime}. </P>
 master
+remote tracking 설정
 </body>
 </html>
