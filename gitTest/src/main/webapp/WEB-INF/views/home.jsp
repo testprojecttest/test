@@ -18,6 +18,8 @@ aaaaaa
 mergeTest
 >>>>>>> refs/heads/mergeTest
 
+>>merge 
+bb
 
 tetetete
 </body>
