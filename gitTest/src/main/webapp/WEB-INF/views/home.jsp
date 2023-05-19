@@ -10,17 +10,6 @@
 </h1>
 브랜치 생성 후
 <P>  The time on the server is ${serverTime}. </P>
-1
-
-kk
-aaaaaa
-=======
-mergeTest
->>>>>>> refs/heads/mergeTest
-
->>merge 
-bb
-
-tetetete
+master
 </body>
 </html>
