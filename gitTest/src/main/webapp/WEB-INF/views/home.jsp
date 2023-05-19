@@ -10,15 +10,5 @@
 </h1>
 브랜치 생성 후
 <P>  The time on the server is ${serverTime}. </P>
-
-
-
-aaaaaa
-=======
-mergeTest
->>>>>>> refs/heads/mergeTest
-
-reomtes create
-tetetete
 </body>
 </html>
