@@ -14,5 +14,8 @@
 
 
 aaaaaa
+=======
+mergeTest
+>>>>>>> refs/heads/mergeTest
 </body>
 </html>
