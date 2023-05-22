@@ -16,8 +16,12 @@
 1
 112121
 2
+<<<<<<< HEAD
 >>>>>>> refs/heads/branck2
 ab
+=======
+abcd!
+>>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
