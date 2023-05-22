@@ -11,7 +11,7 @@
 aaaa
 <<<<<<< HEAD
 
-성민이형 바보
+집가고싶다
 >>>>>>> refs/heads/master
 >>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 >>>>>>> branch 'master' of https://github.com/testprojecttest/test.git
