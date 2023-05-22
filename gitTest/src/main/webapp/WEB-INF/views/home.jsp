@@ -11,7 +11,7 @@
 aaaa
 <<<<<<< HEAD
 
-집가고싶다
+집가고싶다집가고싶다집가고싶다
 >>>>>>> refs/heads/master
 >>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 >>>>>>> branch 'master' of https://github.com/testprojecttest/test.git
