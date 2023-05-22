@@ -8,7 +8,15 @@
 <h1>
 	Hello world!  
 </h1>
+<<<<<<< HEAD
 테스트1 de other
+=======
+테스트1 de
+11
+1
+1
+2
+>>>>>>> refs/heads/branck2
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
