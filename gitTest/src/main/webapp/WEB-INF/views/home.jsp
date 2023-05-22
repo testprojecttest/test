@@ -9,7 +9,7 @@
 	Hello world!  
 </h1>
 aaaa
-!!
+!!!!!
 >>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 >>>>>>> branch 'master' of https://github.com/testprojecttest/test.git
 >>>>>>> refs/heads/master
