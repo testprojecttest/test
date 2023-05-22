@@ -9,10 +9,10 @@
 	Hello world!  
 </h1>
 aaaa
-!!
+<<<<<<< HEAD
 
 성민이형 바보
-
+>>>>>>> refs/heads/master
 >>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 >>>>>>> branch 'master' of https://github.com/testprojecttest/test.git
 >>>>>>> refs/heads/master
