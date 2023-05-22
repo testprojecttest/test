@@ -10,6 +10,9 @@
 </h1>
 aaaa
 !!
+
+성민이형 바보
+
 >>>>>>> branch 'branck2' of https://github.com/testprojecttest/test.git
 >>>>>>> branch 'master' of https://github.com/testprojecttest/test.git
 >>>>>>> refs/heads/master
